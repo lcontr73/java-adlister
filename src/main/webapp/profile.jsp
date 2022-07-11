@@ -11,7 +11,8 @@
     <title>profile</title>
 </head>
 <body>
-<h1>Profile Page</h1>
-<p>This will contain the users profile</p>
+    <%@ include file="partials/navbar.jsp" %>
+    <h1>Profile Page</h1>
+    <p>This will contain the users profile</p>
 </body>
 </html>
